@@ -23,7 +23,7 @@ export const JSONLD = {
     },
     author: {
         "@type": "Person",
-        name: "Ali Abbasov",
+        name: "Shiva",
         url: AUTHOR_WEBSITE,
     },
     "@graph": [
